@@ -26,7 +26,7 @@ React project using TypeScript and Ant Design.
 Run the following commands in your terminal
 
 ```bash
-git clone https://github.com/nibiralpha/Super-Hero.git
+git clone https://github.com/nibiralpha/blog.git
 cd Super-Hero
 npm install
 npm start
