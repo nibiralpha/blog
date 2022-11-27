@@ -1,5 +1,4 @@
 import axios, { AxiosResponse } from 'axios';
-import { setHeroes, startLoading, stopLoading } from '../../src/store/heroes';
 import { API_END_POINT } from '../constants/general';
 import { CommentModel } from '../model/Comment.model';
 import PostModel from "../model/Post.model";

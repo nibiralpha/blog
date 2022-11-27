@@ -4,7 +4,6 @@ import { setBlogs, startLoading, stopLoading } from '../../src/store/blogs';
 import { fetchAuthorData, fetchCommentsData, fetchPostsData } from '../Api/Posts';
 import { BlogModel } from '../model/Blog.model';
 import { CommentModel } from '../model/Comment.model';
-import HeroModel from "../model/Hero.model";
 import PostModal from '../model/Post.model';
 import { UserModel } from '../model/User.model';
 
