@@ -43,7 +43,7 @@ const Landing = ({ getAllPosts, blogs }: props) => {
 const mapStateToProps = (state: any) => {
 
   return {
-    blogs: state?.blogs
+    blogs: state.blogs
   }
 }
 
