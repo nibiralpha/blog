@@ -12,9 +12,9 @@ export interface AddressModel {
 }
 
 export interface CompanyModel {
-    name: "Romaguera-Crona",
-    catchPhrase: "Multi-layered client-server neural-net",
-    bs: "harness real-time e-markets"
+    name: string,
+    catchPhrase: string,
+    bs: string
 }
 
 export interface UserModel {
